@@ -1,0 +1,10 @@
+/Users/DELPIN/Projects/XamariniOSAVPlayer/XamariniOSAVPlayer/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/DELPIN/Projects/XamariniOSAVPlayer/XamariniOSAVPlayer/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/ibtool/_BundleResourceWithLogicalName.items
+/Users/DELPIN/Projects/XamariniOSAVPlayer/XamariniOSAVPlayer/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/actool/_PartialAppManifest.items
+/Users/DELPIN/Projects/XamariniOSAVPlayer/XamariniOSAVPlayer/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/actool/_BundleResourceWithLogicalName.items
+/Users/DELPIN/Projects/XamariniOSAVPlayer/XamariniOSAVPlayer/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/optimized/Xamarin.png
+/Users/DELPIN/Projects/XamariniOSAVPlayer/XamariniOSAVPlayer/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/optimized/
+/Users/DELPIN/Projects/XamariniOSAVPlayer/XamariniOSAVPlayer/bin/iPhoneSimulator/Debug/XamariniOSAVPlayer.exe.mdb
+/Users/DELPIN/Projects/XamariniOSAVPlayer/XamariniOSAVPlayer/bin/iPhoneSimulator/Debug/XamariniOSAVPlayer.exe
+/Users/DELPIN/Projects/XamariniOSAVPlayer/XamariniOSAVPlayer/obj/iPhoneSimulator/Debug/XamariniOSAVPlayer.exe
+/Users/DELPIN/Projects/XamariniOSAVPlayer/XamariniOSAVPlayer/obj/iPhoneSimulator/Debug/XamariniOSAVPlayer.exe.mdb

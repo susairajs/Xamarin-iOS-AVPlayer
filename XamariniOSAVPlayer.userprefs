@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{1C9DB43E-9951-4C9B-AE3E-618FA0501DB1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamariniOSAVPlayer/ViewController.cs">
+    <Files>
+      <File FileName="XamariniOSAVPlayer/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="XamariniOSAVPlayer/Main.storyboard" />
+      <File FileName="XamariniOSAVPlayer/ViewController.cs" Line="15" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.XamariniOSAVPlayer PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.48FC377D-BA0C-40F8-9545-BA9D7DE5EFE9" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
